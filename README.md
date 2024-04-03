@@ -12,6 +12,7 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-white" />
 
 
+
 <strong>O assembly é o melhor...<strong>
 
 
