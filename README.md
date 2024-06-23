@@ -10,6 +10,8 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-blue" />
   <img align="center" alt="Assembly" src="https://img.shields.io/badge/Assembly-red" />
   <img align="center" alt="C" src="https://img.shields.io/badge/C-white" />
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C++-white" />
+  
 
 
 
