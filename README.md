@@ -12,6 +12,4 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-white" />
   <img align="center" alt="C++" src="https://img.shields.io/badge/C++-white" />
   
-<strong>The assembly is the best...<strong>
-
 
