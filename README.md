@@ -24,8 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="![png-transparent-x86-64-64-bit-computing-central-processing-unit-computer-icons-hardware-computer-text-rectangle-logo](https://github.com/Rieidi/Rieidi/assets/128847349/b786deb8-589d-4dda-9226-522255394d16)
-" height="30" alt="cplusplus logo"  />
+  <img src="https://w7.pngwing.com/pngs/322/656/png-transparent-x86-64-64-bit-computing-central-processing-unit-computer-icons-hardware-computer-text-rectangle-logo.png" height="30" alt="cplusplus logo"  />
 
 </div>
 
