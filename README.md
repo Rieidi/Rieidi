@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/riedi/riedi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rieidi/rieidi/output/snake.svg" alt="Snake animation" />
 
 ###
