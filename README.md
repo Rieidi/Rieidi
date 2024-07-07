@@ -38,12 +38,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rieidi/Rieidi/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rieidi/count.svg?"  />
 </div>
