@@ -23,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="![png-transparent-x86-64-64-bit-computing-central-processing-unit-computer-icons-hardware-computer-text-rectangle-logo](https://github.com/Rieidi/Rieidi/assets/128847349/f9f306da-ee27-46d1-adf0-101fb4a45dd5)" height="30" alt="cplusplus logo"  />
 </div>
 
 ###
