@@ -28,7 +28,7 @@ I work close to the hardware — from Assembly to board-level repair.
 
 <p>
 • BIOS recovery and SPI flash reprogramming<br>
-• Board-level laptop diagnostics (power rails, basic fault isolation)<br>
+• Board-level laptop diagnostics (power rails analysis and troubleshooting)
 • LVDS/eDP display troubleshooting (panel, cable, common faults)<br>
 • Notebook hardware repair and component replacement<br>
 </p>
