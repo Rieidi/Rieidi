@@ -49,6 +49,7 @@ I work close to the hardware — from Assembly to board-level repair.
 <h3>🧠 Currently Learning</h3>
 
 <p>
+• Computer Architecture & CPU internals (pipelines, registers, memory hierarchy)<br>
 • Computer Architecture & Microarchitecture<br>
 • Compilers and code generation<br>
 • Operating Systems internals<br>
