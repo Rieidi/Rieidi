@@ -3,6 +3,7 @@
 ###
 
 <div align="center">
+  <img src="https://camo.githubusercontent.com/ea44db432ab90dd31c2fafb243a30c774876ce5ffec032ccefc03604a4e053d2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d53616e747965726f2673686f775f69636f6e733d7472756526686964655f626f726465723d74727565" alt="Rieidi GitHub stats" width="80%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Rieidi&amp;show_icons=true&amp;hide_border=true" style="visibility: visible; max-width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rieidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
